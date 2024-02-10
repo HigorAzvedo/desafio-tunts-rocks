@@ -1,0 +1,14 @@
+{
+  "name": "Desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  }
+}
